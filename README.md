@@ -1,11 +1,14 @@
-# {Chapter} - Update this file and the code of conduct!
+# Papers We ❤ Costa Rica
 
-This is the repository for the {Chapter} chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/nashville/blob/master/code-of-conduct.md).
+This is the repository for the Costa Rica chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/costa-rica/blob/master/code-of-conduct.md).
 
 ### Information
+
+We are just getting started and will soon update this space with information about our first meet up.
+
 
 {Chapter information: who, what, where, when, why}
 
 ### Contact
 
-{Names and contact information (twitter, email, etc) of Chapter organizers}
+- Andrés [GitHub](https://github.com/andres-bits) | [Twitter](https://twitter.com/andres_bits) | [Email](mailto:andres@sandwichbytes.com)
