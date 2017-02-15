@@ -6,9 +6,6 @@ This is the repository for the Costa Rica chapter of Papers We Love. As a local 
 
 We are just getting started and will soon update this space with information about our first meet up.
 
-
-{Chapter information: who, what, where, when, why}
-
 ### Contact
 
 - Andrés [GitHub](https://github.com/andres-bits) | [Twitter](https://twitter.com/andres_bits) | [Email](mailto:andres@sandwichbytes.com)
