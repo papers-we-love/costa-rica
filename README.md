@@ -8,4 +8,4 @@ We are just getting started and will soon update this space with information abo
 
 ### Contact
 
-- Andrés [GitHub](https://github.com/andres-bits) | [Twitter](https://twitter.com/andres_bits) | [Email](mailto:andres@sandwichbytes.com)
+- Andrés [GitHub](https://github.com/andres-bits) | [Twitter](https://twitter.com/andres_bits)
