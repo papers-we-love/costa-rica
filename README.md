@@ -4,7 +4,7 @@ This is the repository for the Costa Rica chapter of Papers We Love. As a local 
 
 ### Information
 
-We are just getting started and will soon update this space with information about our first meet up.
+We are just getting started and will soon update this space with information about our first meet up. We are shooting for 3rd week of April's with the help of Msc. Alicia Salazar ([LinkedIn](https://www.linkedin.com/in/alicia-salazar-22724a41/)).
 
 ### Contact
 
