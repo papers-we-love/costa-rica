@@ -1,43 +1,42 @@
-# Code of Conduct
+# Código de Conducta
 
-All attendees, speakers, exhibitors, organizers, contributors and volunteers are required to conform to the following Code of Conduct.
+Es requerido para todos los asistentes, expositores, organizadores, ayudantes y voluntarios aceptar el siguiente Código de Conducta.
 
-Papers We Love events are for anyone interested in Computer Science/Computer Engineering, its history, and related fields to discuss academic research in a fun, engaging and respectful environment.
+Los eventos de Papers We Love son para todas aquellas personas interesadas en Ciencias de la Computación/Ingeniería de Software, su historia y campos relacionados para discutir investigación académica en un ambiente atractivo, respetuoso y divertido.
 
-**Be an adult, don't be a jerk.**
+**Compórtate como adulto y no cometas tonterías**
 
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the meet-ups and at all Papers We Love events and interactions on the GitHub repository, IRC or [Slack](https://paperswelove.slack.com/messages/general/) channels.
+Valoramos la participación de cada uno de los miembros de la comunidad y deseamos que todos los asistentes tengan una experiencia agradable y satisfactoria. De acuerdo con lo anterior, se espera que todas las personas demuestren respeto y cortesía hacia los demás, ya sea en las reuniones, eventos Papers We Love, en las interacciones en los repositorios de GitHub y en los canales de IRC y Slack.
 
-Need help?
-----------
 
-If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
+¿Necesitas ayuda?
+---- ------------
 
-- **Andrés** [andres@sandwichbytes.com](mailto:andres@sandwichbytes.com)
-- **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
+Si estás experimentando acoso o tienes alguna preocupación sobre algún contenido en el [repo de GitHub](https://github.com/papers-we-love/papers-we-love) en el canal **\#paperswelove** de IRC en Freenode, en **paperswelove.slack.com** en Slack o en [PapersWeLove.org](http://paperswelove.org) por favor contáctanos:
 
-The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live events.
+- **Andrés** [papers.we.love.cr@gmail.com](mailto:papers.we.love.cr@gmail.com)
+- **All** [contact@paperswelove.org](mailto:papers.we.love.cr@gmail.com)
 
-What it means
--------------
+Los organizadores de tu evento local de Papers We Love están disponibles para ayudarte con cualquier asunto o preocupación durante los eventos.
 
-Papers We Love is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of meet-up participants in any form.
+Lo que esto significa
+---------------------
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any meet-up, including talks.
+Papers We Love está dedicado a proveer una experiencia libre de acoso para todos, sin importar su género, orientación sexual, discapacidad, apariencia física, cuerpo, raza o religión. No toleramos el acoso a los participantes en ninguna forma.
 
-Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for Papers We Love.
+Toda comunicación debe ser apropiada para una audiencia profesional incluyendo a personas con distintos orígenes. Imágenes y lenguaje sexual no son apropiados para ninguna reunión, incluyendo las exposiciones.
 
-Attendees violating these rules may be asked to leave the meet-up at the sole discretion of the organizers.
+Se amable con los demás. No insultes ni suprimas a los otros asistentes. Compórtate de forma profesional. Recuerda que el acoso y el sexismo, racismo o bromas excluyentes no tienen lugar en Papers We Love.
 
-Thank you for helping make this a welcoming, friendly event for all.
+Queda a discreción de los organizadores solicitarle a los asistentes que violen estas reglas a que salgan del evento.
 
-Spelling it out
+Gracias por ayudarnos a hacer de las reuniones un lugar acogedor y amigable para todos.
+
+
+Dejándolo claro
 ---------------
+Acoso u hostigamiento incluye comentarios verbales ofensivos sobre género, orientación sexual, discapacidad, apariencia física, cuerpo, raza, religión, imágenes sexuales en espacios públicos, intimidación deliberada, acecho, persecución, hostigamiento mediante fotografías o grabación, interrupción continua, contacto físico inapropiado y atención sexual no deseada.
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Se espera que aquellos participantes a los que se les pida detener cualquier comportamiento de acoso cumplan de forma inmediata.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
-
-Contributors to the GitHub repository, the Meetup and/or event-related sites, sponsors, or similar are also subject to the anti-harassment policy. Organizers (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment..
-
-
+Las personas que contribuyen al repositorio en GitHub, los sitios relacionados a los eventos y/o en Meetup, patrocinadores o similares también están sujetos a la política anti-acoso. Los organizadores (incluyendo a las personas voluntarias) no deben utilizar ropa/uniformes/disfraces sexualizados o crear de alguna otra manera un ambiente sexualizado.
